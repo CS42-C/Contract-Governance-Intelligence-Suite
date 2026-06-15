@@ -31,7 +31,7 @@ Key findings: 24 overdue obligations, 9 at risk, 2 critical-priority obligations
 ### Page 2 — Supplier Coverage Map
 Maps signed agreements across the full supplier-client matrix by country. Identifies missing, expired, and pending-signature gaps with full action detail.
 
-Key findings: 51.7% overall coverage rate, 11 critical gaps (6 missing, 5 expired), zero coverage in Spain across all supplier-client pairs — a direct legal and commercial risk for every operational relationship in that jurisdiction.
+Key findings: 51.7% overall coverage rate, 11 critical gaps (6 missing, 5 expired), zero coverage in Spain across all supplier-client pairs, a direct legal and commercial risk for every operational relationship in that jurisdiction.
 
 ### Page 3 — Clause Deviation Register
 Tracks all clause deviations by type, risk rating, approval status, and recurrence. Identifies the most frequently negotiated clauses and measures resolution time.
